@@ -36,4 +36,3 @@ weatherForm.addEventListener('submit',(e)=>{
 })
 
 
-// got it  npm run dev  =>ok
